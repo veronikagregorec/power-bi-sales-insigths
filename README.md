@@ -7,6 +7,14 @@ This project contains:
 - data cleaning
 - build dashboard
 
+## Run Localy
+
+Clone the project
+
+```
+https://github.com/veronikagregorec/power-bi-sales-insigths.git
+```
+
 ## Data Analysis using SQL
 
 Show all customer records. <br/>
